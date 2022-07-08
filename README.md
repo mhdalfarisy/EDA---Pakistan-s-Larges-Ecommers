@@ -1,3 +1,4 @@
+
 # Exploratory Data Analyst - Pakistan Large Ecommers 
 
 #### By Muhammad Al-farisy
@@ -16,6 +17,15 @@ FILE PERSENTASI
 
 <hr>
 
-**Cara Menambahkan gambar + Link**
-_!_Keterangan_link gambar_link ketika di klink gambar
 [![slide1](https://github.com/mhdalfarisy/EDA---Pakistan-s-Larges-Ecommers/blob/main/Images/Slide1.PNG)](h[ttps://www.solopos.com/wow-tangkapan-ikan-hiu-di-cilacap-capai-90-ton-1240574](https://github.com/mhdalfarisy/EDA---Pakistan-s-Larges-Ecommers/blob/main/Images/Slide1.PNG))
+
+Dataset yang dipilih adalah Pakistan's Largest E-Commers
+
+<hr>
+
+[![slide3](https://github.com/mhdalfarisy/EDA---Pakistan-s-Larges-Ecommers/blob/main/Images/Slide2.PNG)]([h[ttps://www.solopos.com/wow-tangkapan-ikan-hiu-di-cilacap-capai-90-ton-1240574](https://github.com/mhdalfarisy/EDA---Pakistan-s-Larges-Ecommers/blob/main/Images/Slide2.PNG))
+
+<hr>
+
+[![slide4](https://github.com/mhdalfarisy/EDA---Pakistan-s-Larges-Ecommers/blob/main/Images/Slide4.PNG)]([h[https://github.com/mhdalfarisy/EDA---Pakistan-s-Larges-Ecommers/blob/main/Images/Slide4.PNG](https://github.com/mhdalfarisy/EDA---Pakistan-s-Larges-Ecommers/blob/main/Images/Slide4.PNG))
+
