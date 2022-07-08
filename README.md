@@ -130,5 +130,6 @@ Business Question 6 :
 
 [![slide16](https://github.com/mhdalfarisy/EDA---Pakistan-s-Larges-Ecommers/blob/main/Images/Slide18.PNG)]([h[[https://github.com/mhdalfarisy/EDA---Pakistan-s-Larges-Ecommers/blob/main/Images/Slide18.PNG](https://github.com/mhdalfarisy/EDA---Pakistan-s-Larges-Ecommers/blob/main/Images/Slide18.PNG))
 
-
+# Visualisasi Tableu
+[![slide17](https://github.com/mhdalfarisy/EDA---Pakistan-s-Larges-Ecommers/blob/main/Images/Tableu%20Pakistan%20Largest%20Ecommers.png)]([h[[https://github.com/mhdalfarisy/EDA---Pakistan-s-Larges-Ecommers/blob/main/Images/Tableu%20Pakistan%20Largest%20Ecommers.png](https://github.com/mhdalfarisy/EDA---Pakistan-s-Larges-Ecommers/blob/main/Images/Tableu%20Pakistan%20Largest%20Ecommers.png))
 
