@@ -32,32 +32,32 @@ Pemahaman Data :
 [![slide4](https://github.com/mhdalfarisy/EDA---Pakistan-s-Larges-Ecommers/blob/main/Images/Slide4.PNG)]([h[https://github.com/mhdalfarisy/EDA---Pakistan-s-Larges-Ecommers/blob/main/Images/Slide4.PNG](https://github.com/mhdalfarisy/EDA---Pakistan-s-Larges-Ecommers/blob/main/Images/Slide4.PNG))
 
 Penjelasan kolom : 
-* Item_id  : Nomor urut product dalam database di website saat barang masuk troli*
-<!-- ** Status ** : *Informasi terkait proses pesanan barang*
-** Created_at ** : *Informasi terkait tanggal dibuat pesanan*
-** Sku ** : *Kode unik dari toko (barcode) yang bertujuan untuk pengecekan barang*
-** Price ** : *Harga per unit produk yang dijual (tipe data float)*
-** Qty_ordered ** : *Total quantity barang yang dipesan*
-** Grand_total ** : *Total bersih yang harus di bayar customer (telah di potong diskon)*
-** Increment_id ** : *Kode electronic struck pembelian*
-** Category_name_1 ** : *Katalog barang yang dijual*
-** Sales_commision_code ** : *Kode komisi / fee penjualan*
-** Discount_amount ** : *Nominal diskon yang diberikan*
-** Payment_method ** : *Metode pembayaran yang disediakan perusahaan/ e-commers*
-** Working_date ** : *Tanggal pengerjaan pesanan*
-** BI_Status ** : *Kesimpulan dari status proses pesanan yang membuat perusahaan menerima uang, mengembalikan uang, atau batal mendapatkan uang.*
-** MV ** : *Harga satuan produk (tipe data string)*
-** Year ** : *Tahun customer membeli produk*
-** Month ** : *Bulan customer membeli produk*
-** Customer_since ** : *Tanggal customer bergabung ke aplikasi e-commers*
-** M-Y ** : *Menyimpan informasi tentang bulan dan tahun customer membeli produck*
-** FY ** : *Tahun fiskal untuk perusahaan swasta di negara pakistan*
-** Customer_ID ** : *Nomor unik customer*
-** Unnamed : 21 ** : *Kosong kosong*
-** Unnamed : 22 ** : *Kosong kosong*
-** Unnamed : 23 ** : *Kosong kosong*
-** Unnamed : 24 ** : *Kosong kosong*
-** Unnamed : 25 ** : *Kosong kosong* -->
+* Item_id  : Nomor urut product dalam database di website saat barang masuk troli
+* Status : Informasi terkait proses pesanan barang
+* Created_at  : Informasi terkait tanggal dibuat pesanan
+* Sku ** : Kode unik dari toko (barcode) yang bertujuan untuk pengecekan barang
+* Price : Harga per unit produk yang dijual (tipe data float)
+* Qty_ordered  : Total quantity barang yang dipesan
+* Grand_total  : Total bersih yang harus di bayar customer (telah di potong diskon)
+* Increment_id  : Kode electronic struck pembelian
+* Category_name_1  : Katalog barang yang dijual
+* Sales_commision_code  : Kode komisi / fee penjualan
+* Discount_amount  : Nominal diskon yang diberikan
+* Payment_method  : Metode pembayaran yang disediakan perusahaan/ e-commers
+* Working_date  : Tanggal pengerjaan pesanan
+* BI_Status : Kesimpulan dari status proses pesanan yang membuat perusahaan menerima uang, mengembalikan uang, atau batal mendapatkan uang.
+* MV : Harga satuan produk (tipe data string)
+* Year : Tahun customer membeli produk
+* Month : Bulan customer membeli produk
+* Customer_since  : *Tanggal customer bergabung ke aplikasi e-commers
+* M-Y  : Menyimpan informasi tentang bulan dan tahun customer membeli produck
+* FY : Tahun fiskal untuk perusahaan swasta di negara pakistan
+* Customer_ID : *Nomor unik customer
+* Unnamed : 21  : *Kosong kosong
+* Unnamed : 22 ** : *Kosong kosong*
+* Unnamed : 23 ** : *Kosong kosong*
+* Unnamed : 24 ** : *Kosong kosong*
+* Unnamed : 25 ** : *Kosong kosong* -->
 
 <hr>
 
