@@ -32,8 +32,8 @@ Pemahaman Data :
 [![slide4](https://github.com/mhdalfarisy/EDA---Pakistan-s-Larges-Ecommers/blob/main/Images/Slide4.PNG)]([h[https://github.com/mhdalfarisy/EDA---Pakistan-s-Larges-Ecommers/blob/main/Images/Slide4.PNG](https://github.com/mhdalfarisy/EDA---Pakistan-s-Larges-Ecommers/blob/main/Images/Slide4.PNG))
 
 Penjelasan kolom : 
-** Item_id ** : *Nomor urut product dalam database di website saat barang masuk troli*
-** Status ** : *Informasi terkait proses pesanan barang*
+** Item_id ** : ''Nomor urut product dalam database di website saat barang masuk troli''
+<!-- ** Status ** : *Informasi terkait proses pesanan barang*
 ** Created_at ** : *Informasi terkait tanggal dibuat pesanan*
 ** Sku ** : *Kode unik dari toko (barcode) yang bertujuan untuk pengecekan barang*
 ** Price ** : *Harga per unit produk yang dijual (tipe data float)*
@@ -57,21 +57,7 @@ Penjelasan kolom :
 ** Unnamed : 22 ** : *Kosong kosong*
 ** Unnamed : 23 ** : *Kosong kosong*
 ** Unnamed : 24 ** : *Kosong kosong*
-** Unnamed : 25 ** : *Kosong kosong*
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+** Unnamed : 25 ** : *Kosong kosong* -->
 
 <hr>
 
