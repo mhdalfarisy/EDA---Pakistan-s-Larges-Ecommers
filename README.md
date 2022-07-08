@@ -31,6 +31,23 @@ Pemahaman Data :
 
 [![slide4](https://github.com/mhdalfarisy/EDA---Pakistan-s-Larges-Ecommers/blob/main/Images/Slide4.PNG)]([h[https://github.com/mhdalfarisy/EDA---Pakistan-s-Larges-Ecommers/blob/main/Images/Slide4.PNG](https://github.com/mhdalfarisy/EDA---Pakistan-s-Larges-Ecommers/blob/main/Images/Slide4.PNG))
 
+Penjelasan kolom : 
+** Item_id ** : *Nomor urut product dalam database di website saat barang masuk troli*
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <hr>
 
 Bussines Question
