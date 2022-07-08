@@ -33,13 +33,19 @@ Pemahaman Data :
 
 <hr>
 
+Bussines Question
+
 [![slide5](https://github.com/mhdalfarisy/EDA---Pakistan-s-Larges-Ecommers/blob/main/Images/Slide5.PNG)]([h[https://github.com/mhdalfarisy/EDA---Pakistan-s-Larges-Ecommers/blob/main/Images/Slide5.PNG](https://github.com/mhdalfarisy/EDA---Pakistan-s-Larges-Ecommers/blob/main/Images/Slide5.PNG))
 
 <hr>
 
+Bussines Question 1 :
+
 [![slide6](https://github.com/mhdalfarisy/EDA---Pakistan-s-Larges-Ecommers/blob/main/Images/Slide6.PNG)]([h[[https://github.com/mhdalfarisy/EDA---Pakistan-s-Larges-Ecommers/blob/main/Images/Slide5.PNG](https://github.com/mhdalfarisy/EDA---Pakistan-s-Larges-Ecommers/blob/main/Images/Slide6.PNG))
 
 <hr>
+
+Bussines Question 2 :
 
 [![slide7](https://github.com/mhdalfarisy/EDA---Pakistan-s-Larges-Ecommers/blob/main/Images/Slide7.PNG)]([h[[https://github.com/mhdalfarisy/EDA---Pakistan-s-Larges-Ecommers/blob/main/Images/Slide7.PNG](https://github.com/mhdalfarisy/EDA---Pakistan-s-Larges-Ecommers/blob/main/Images/Slide7.PNG))
 
