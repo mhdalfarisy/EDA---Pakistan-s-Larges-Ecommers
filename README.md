@@ -18,4 +18,4 @@ FILE PERSENTASI
 
 **Cara Menambahkan gambar + Link**
 _!_Keterangan_link gambar_link ketika di klink gambar
-[![Avenger](https://wallpaperaccess.com/full/2086922.jpg)](https://www.solopos.com/wow-tangkapan-ikan-hiu-di-cilacap-capai-90-ton-1240574)
+[![slide1](https://github.com/mhdalfarisy/EDA---Pakistan-s-Larges-Ecommers/blob/main/Images/Slide1.PNG)](h[ttps://www.solopos.com/wow-tangkapan-ikan-hiu-di-cilacap-capai-90-ton-1240574](https://github.com/mhdalfarisy/EDA---Pakistan-s-Larges-Ecommers/blob/main/Images/Slide1.PNG))
