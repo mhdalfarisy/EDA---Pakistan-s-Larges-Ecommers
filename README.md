@@ -54,10 +54,10 @@ Penjelasan kolom :
 * FY : Tahun fiskal untuk perusahaan swasta di negara pakistan
 * Customer_ID : *Nomor unik customer
 * Unnamed : 21  : *Kosong kosong
-* Unnamed : 22 ** : *Kosong kosong*
-* Unnamed : 23 ** : *Kosong kosong*
-* Unnamed : 24 ** : *Kosong kosong*
-* Unnamed : 25 ** : *Kosong kosong* -->
+* Unnamed : 22 ** : *Kosong kosong
+* Unnamed : 23 ** : *Kosong kosong
+* Unnamed : 24 ** : *Kosong kosong
+* Unnamed : 25 ** : *Kosong kosong
 
 <hr>
 
