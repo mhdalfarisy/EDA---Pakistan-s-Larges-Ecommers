@@ -19,15 +19,15 @@ FILE PERSENTASI
 
 [![slide1](https://github.com/mhdalfarisy/EDA---Pakistan-s-Larges-Ecommers/blob/main/Images/Slide1.PNG)](h[ttps://www.solopos.com/wow-tangkapan-ikan-hiu-di-cilacap-capai-90-ton-1240574](https://github.com/mhdalfarisy/EDA---Pakistan-s-Larges-Ecommers/blob/main/Images/Slide1.PNG))
 
-Dataset yang dipilih adalah Pakistan's Largest E-Commers
-
 <hr>
 
-Berikut adalah data data yang akan digunakan :
+Latar belakang :
 
 [![slide3](https://github.com/mhdalfarisy/EDA---Pakistan-s-Larges-Ecommers/blob/main/Images/Slide3.PNG)]([h[ttps://www.solopos.com/wow-tangkapan-ikan-hiu-di-cilacap-capai-90-ton-1240574](https://github.com/mhdalfarisy/EDA---Pakistan-s-Larges-Ecommers/blob/main/Images/Slide2.PNG))
 
 <hr>
+
+Pemahaman Data :
 
 [![slide4](https://github.com/mhdalfarisy/EDA---Pakistan-s-Larges-Ecommers/blob/main/Images/Slide4.PNG)]([h[https://github.com/mhdalfarisy/EDA---Pakistan-s-Larges-Ecommers/blob/main/Images/Slide4.PNG](https://github.com/mhdalfarisy/EDA---Pakistan-s-Larges-Ecommers/blob/main/Images/Slide4.PNG))
 
