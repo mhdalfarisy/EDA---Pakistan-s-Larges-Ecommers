@@ -76,6 +76,8 @@ Business Question 4 :
 
 <hr>
 
+Business Question 5 :
+
 [![slide13](https://github.com/mhdalfarisy/EDA---Pakistan-s-Larges-Ecommers/blob/main/Images/Slide13.PNG)]([h[[https://github.com/mhdalfarisy/EDA---Pakistan-s-Larges-Ecommers/blob/main/Images/Slide13.PNG](https://github.com/mhdalfarisy/EDA---Pakistan-s-Larges-Ecommers/blob/main/Images/Slide13.PNG))
 
 <hr>
@@ -83,6 +85,8 @@ Business Question 4 :
 [![slide14](https://github.com/mhdalfarisy/EDA---Pakistan-s-Larges-Ecommers/blob/main/Images/Slide14.PNG)]([h[[https://github.com/mhdalfarisy/EDA---Pakistan-s-Larges-Ecommers/blob/main/Images/Slide14.PNG](https://github.com/mhdalfarisy/EDA---Pakistan-s-Larges-Ecommers/blob/main/Images/Slide14.PNG))
 
 <hr>
+
+Business Question 6 :
 
 [![slide15](https://github.com/mhdalfarisy/EDA---Pakistan-s-Larges-Ecommers/blob/main/Images/Slide15.PNG)]([h[[https://github.com/mhdalfarisy/EDA---Pakistan-s-Larges-Ecommers/blob/main/Images/Slide15.PNG](https://github.com/mhdalfarisy/EDA---Pakistan-s-Larges-Ecommers/blob/main/Images/Slide15.PNG))
 
