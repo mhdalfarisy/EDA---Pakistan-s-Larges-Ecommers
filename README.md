@@ -32,7 +32,7 @@ Pemahaman Data :
 [![slide4](https://github.com/mhdalfarisy/EDA---Pakistan-s-Larges-Ecommers/blob/main/Images/Slide4.PNG)]([h[https://github.com/mhdalfarisy/EDA---Pakistan-s-Larges-Ecommers/blob/main/Images/Slide4.PNG](https://github.com/mhdalfarisy/EDA---Pakistan-s-Larges-Ecommers/blob/main/Images/Slide4.PNG))
 
 Penjelasan kolom : 
-** Item_id ** : *Nomor urut product dalam database di website saat barang masuk troli*
+* Item_id  : Nomor urut product dalam database di website saat barang masuk troli*
 <!-- ** Status ** : *Informasi terkait proses pesanan barang*
 ** Created_at ** : *Informasi terkait tanggal dibuat pesanan*
 ** Sku ** : *Kode unik dari toko (barcode) yang bertujuan untuk pengecekan barang*
