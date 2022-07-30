@@ -1,6 +1,6 @@
 
 # Exploratory Data Analyst - Pakistan Large Ecommers 
-[![Dashboard Portofolio Tableu](https://github.com/mhdalfarisy/EDA---Pakistan-s-Larges-Ecommers/blob/main/Images/Tableu%20Pakistan%20Largest%20Ecommers.png)](https://www.linkedin.com/in/m-alfarisy97/)
+[![Dashboard Portofolio Tableu](https://github.com/mhdalfarisy/EDA---Pakistan-s-Larges-Ecommers/blob/main/Images/Untitled-1-270.jpg)](https://www.linkedin.com/in/m-alfarisy97/)
 
 
 #### By Muhammad Al-farisy
