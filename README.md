@@ -1,5 +1,7 @@
 ## PROJECT : Pakistan Large E-Commers
 
+![a1](https://github.com/mhdalfarisy/EDA---Pakistan-s-Larges-Ecommers/blob/main/Images/Pakistani-E-Commerce-Ventures-Look-Global-315x210.png)
+
 ### **Problem Statement**
   - Transaksi penjualan Perusahaan E-Commers Pakistan setiap tahunnya mengalami penurunan, hal ini dikarenakan angka pembatalan yang dilakukan konsumen setiap tahunnya terus meningkat. Tahun 2016 pembatalan penjualan terjadi sebanyak 41%, pada tahun 2017 mengalami peningkatan 45% dan pada tahun 2018 mengalami peningkatan menjadi 48% pembatalan penjualan. Jika hal ini dibiarkan, maka Perusahaan E-Commers Pakistan akan mengalami penurunan penjualan yang semakin tinggi dan akan kehilangan konsumen. 
 
