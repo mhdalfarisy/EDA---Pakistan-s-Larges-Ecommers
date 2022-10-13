@@ -96,6 +96,8 @@
 
 **✨ Visualization Data Pakistan Large E-Commers** <br>
 <br>
+<code><a href="https://public.tableau.com/app/profile/muhammad.al.farisy6147" target="_blank"><img height="50" src="https://github.com/mhdalfarisy/EDA---Pakistan-s-Larges-Ecommers/blob/main/Images/Dashboard%201%20(1).png"></a></code>
+<br>
 <code><a href="https://public.tableau.com/app/profile/muhammad.al.farisy6147" target="_blank"><img height="50" src="https://cdn.worldvectorlogo.com/logos/tableau-logo.svg"></a></code>
 
 
