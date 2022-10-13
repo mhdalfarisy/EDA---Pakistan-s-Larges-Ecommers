@@ -94,13 +94,25 @@
 4. `Discount_Amount_Category :` Untuk pemberian diskon kepada konsumen, perusahaan dapat memberikan diskon sebesar besar nya namun pada tanggal tertentu saja yang berkaitan dengan hari besar di pakistan dan dikson dapat diberikan berkisaran diatas 50% atau setengah harga dari total pembelian.
 5. `Month :` Awal tahun yaitu bulan 5, pertengahan tahun bulan 8 dan akhir tahun bulan 11 dapat perusahaan jadikan sebagai target promo besar besaran selama 1 bulan penuh, berikan promo besar pada bulan itu terhadap produk-produk yang memiliki transaksi paling banyak terjual, berikan diskon tambahan jika pembayaran menggunakan pembayaran elektronik dan berikan garansi untuk setiap pembelian. Selain dari bulan 5,8 dan bulan 11 perusahaan dapat gunakan untuk membangun branding awarness.
 
-# Mari berkenalan :heavy_check_mark:
-[![Avenger](https://github.com/mhdalfarisy/CRUD-Program-Stock-Barang-Gudang/blob/main/image/Linkedin.jpg)](https://www.linkedin.com/in/m-alfarisy97/)
+**💬 Ask me about anything, I'll be happy to help!** <br>
+**💬 My inbox is always open, Contact me**
+<br>
+<br> 
+  </a>
+  <a href="mailto:m.alfarisy797@gmail.com">
+    <img align="left" alt="Muhammad Al-farisy | Gmail" width="26px" src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" />
+  </a>
+  <a href="https://www.linkedin.com/in/m-alfarisy97/">
+    <img align="left" alt="Muhamamd Al-farisy | Instagram" width="26px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />
+  </a>
+  <a href="https://www.instagram.com/inifaris_____/">
+    <img align="left" alt="Muhammad Al-farisy | Instagram" width="24px" src="https://cdn.worldvectorlogo.com/logos/instagram-5.svg" />
+  </a>
+  <a href="https://public.tableau.com/app/profile/muhammad.al.farisy6147">
+    <img align="left" alt="Muhammad Al-farisy | Tableau" width="24px" src="https://seeklogo.com/images/T/tableau-software-logo-081AF6D95D-seeklogo.com.png" />
+  </a>
+  
+<br>
+<br>
 
-
-# Portofolio Coding :heavy_check_mark:
-[![Github](https://github.com/mhdalfarisy/CRUD-Program-Stock-Barang-Gudang/blob/main/image/github-logo-tile.png)](https://github.com/mhdalfarisy)
-
-
-# Portofolio Visualisasi :heavy_check_mark:
-[![Dashboard Portofolio Tableu](https://github.com/mhdalfarisy/Capstone-Project-Modul-1---Program-Stock-Barang-Gudang-/blob/main/image/Tableau-Server-1.jpg)](https://public.tableau.com/app/profile/muhammad.al.farisy6147)
+⭐️ From [Muhammad Al-farisy](https://github.com/mhdalfarisy)
