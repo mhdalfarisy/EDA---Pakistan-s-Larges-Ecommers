@@ -37,7 +37,7 @@
 |FY|Tahun fiskal pajak di pakistan|
 |Customer_Id|Konsumen Id|
 
-#### Penjelasan Data Wrangling :
+## Penjelasan Data Wrangling :
 - **Total baris dan kolom :**
   - Baris 1.048.575
   - Kolom 26
@@ -62,3 +62,33 @@
 - **Persentase Missing Values :**
   - `item_id`, `created_at`, `sku`, `price`, `qty_ordered`, `grand_total`, `increment_id`,`sales_commission_code`, `discount_amount`, `payment_method`, `Working Date`, `MV`, `Year`, `Month`, `Customer Since`, `M-Y`, `FY`, `Customer ID`, `status`,`category_name_1` dan `BI Status` memiliki 44,26% missing values.
   - `Unnamed: 21`,`Unnamed: 22`,`Unnamed: 23`,`Unnamed: 24`,`Unnamed: 25` memiliki missing values 100%
+
+## **Kesimpulan Exploratory Data Analyst**
+1. `Status :` Pembataln transaksi banyak terjadi dengan status `Cancelled` sebanyak 32,8% dan `Refund` sebanyak 11,8%.
+2. `Category :` Produk yang paling banyak pembatalan ada pada category `Mobiles & Tablet :`, dengan total pembatalan `Cancelled` sebanyak 9,8% dan pengembalian barang (`Refund`) sebanyak 2,1%.
+3. `Payment_Method_Category :` Cara yang paling banyak digunakan konsumen di pakistan adalah `COD, Debit Card dan Credit Card` namun pembatalan paling banyak ada pada cara pembayaran `Credit Card & Debit Card` sedangkan pembatalan refund paling banyak dengan cara pembayaran `COD`.
+4. `Discount_Amount_Category :` Transaksi yang tidak mendapatkan diskon paling banyak pembatalan sekitar 27% dan transaksi yang mendapatkan diskon terjadi pembatalan karena diskon yang diberikan kurang dari 1000 Rupee.
+5. `Month :` Bulan yang paling banyak transaksi berhasil ada pada akhir tahun bulan 11, pertengahan tahun bulan 8 dan awal tahun bulan 5 dengan.
+
+## **Saran Exploratory Data Analyst**
+1. `Status :` 
+   - Untuk mengecilkan angka pembatalan pesanan dan refund, perusahaan dapat melakukan evaluasi seperti berikut :
+   - Melakukan pencegah pembatalan :
+     -  Menawarkan harga non-refundable
+     -  Terima berbagai metode pembayaran
+     -  Validasi pembayaran dimuka
+     -  Balas pertanyaan customer dengan cepat
+     -  Pikat pemesan last minute dari perangkat mobile
+     -  Buat promosi / diskon
+   #
+   - Untuk mengurangi pengembalian barang (refund) :
+     - Mengontrol kualitas barang sebelum melakukan pengiriman
+     - Mendeskripsikan produk melalui tulisan, gambar dan ukuran packingan
+     - Meminta feedback pelanggan
+     - Menampilkan informasi pengiriman dan waktu barang akan sampai
+     - Menyediakan customer service real time
+2. `Category :` 
+   - Perusahaan dapat memberikan diskon untuk kategori Mobile & Tablets untuk menarik minat pembeli, terutama pada pembelian yang melebihi 1 unit selain itu perusahaan dapat memberikan garansi pada pembelian barang `Mobile & Tablets`.
+3. `Payment_Method_Category :` Perusahaan dapat memfokuskan pembayaran menggunakan media elektronik seperti `Debit Card dan Credit Card` berikan potongan harga jika konsumen melakukan pembelian barang menggunakan pembayaran secara `Debit Card dan Credit Card` , berikan point tambahan untuk pembayaran secara elektronik yang mana point ini nanti dapat di tukarkan dan perusahaan dapat membangun branding awarness tentang keuntungan menggunakan pembayaran dengan elektronik.
+4. `Discount_Amount_Category :` Untuk pemberian diskon kepada konsumen, perusahaan dapat memberikan diskon sebesar besar nya namun pada tanggal tertentu saja yang berkaitan dengan hari besar di pakistan dan dikson dapat diberikan berkisaran diatas 50% atau setengah harga dari total pembelian.
+5. `Month :` Awal tahun yaitu bulan 5, pertengahan tahun bulan 8 dan akhir tahun bulan 11 dapat perusahaan jadikan sebagai target promo besar besaran selama 1 bulan penuh, berikan promo besar pada bulan itu terhadap produk-produk yang memiliki transaksi paling banyak terjual, berikan diskon tambahan jika pembayaran menggunakan pembayaran elektronik dan berikan garansi untuk setiap pembelian. Selain dari bulan 5,8 dan bulan 11 perusahaan dapat gunakan untuk membangun branding awarness.
