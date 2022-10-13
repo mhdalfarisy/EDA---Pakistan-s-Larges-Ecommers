@@ -80,7 +80,6 @@
      -  Balas pertanyaan customer dengan cepat
      -  Pikat pemesan last minute dari perangkat mobile
      -  Buat promosi / diskon
-   #
    - Untuk mengurangi pengembalian barang (refund) :
      - Mengontrol kualitas barang sebelum melakukan pengiriman
      - Mendeskripsikan produk melalui tulisan, gambar dan ukuran packingan
