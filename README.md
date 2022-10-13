@@ -109,7 +109,7 @@
     <img align="left" alt="Muhammad Al-farisy | Instagram" width="24px" src="https://cdn.worldvectorlogo.com/logos/instagram-5.svg" />
   </a>
   <a href="https://public.tableau.com/app/profile/muhammad.al.farisy6147">
-    <img align="left" alt="Muhammad Al-farisy | Tableau" width="24px" src="https://seeklogo.com/images/T/tableau-software-logo-081AF6D95D-seeklogo.com.png" />
+    <img align="left" alt="Muhammad Al-farisy | Tableau" width="24px" src="https://cdn.worldvectorlogo.com/logos/tableau-logo.svg" />
   </a>
   
 <br>
