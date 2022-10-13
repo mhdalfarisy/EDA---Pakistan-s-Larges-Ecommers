@@ -93,3 +93,14 @@
 3. `Payment_Method_Category :` Perusahaan dapat memfokuskan pembayaran menggunakan media elektronik seperti `Debit Card dan Credit Card` berikan potongan harga jika konsumen melakukan pembelian barang menggunakan pembayaran secara `Debit Card dan Credit Card` , berikan point tambahan untuk pembayaran secara elektronik yang mana point ini nanti dapat di tukarkan dan perusahaan dapat membangun branding awarness tentang keuntungan menggunakan pembayaran dengan elektronik.
 4. `Discount_Amount_Category :` Untuk pemberian diskon kepada konsumen, perusahaan dapat memberikan diskon sebesar besar nya namun pada tanggal tertentu saja yang berkaitan dengan hari besar di pakistan dan dikson dapat diberikan berkisaran diatas 50% atau setengah harga dari total pembelian.
 5. `Month :` Awal tahun yaitu bulan 5, pertengahan tahun bulan 8 dan akhir tahun bulan 11 dapat perusahaan jadikan sebagai target promo besar besaran selama 1 bulan penuh, berikan promo besar pada bulan itu terhadap produk-produk yang memiliki transaksi paling banyak terjual, berikan diskon tambahan jika pembayaran menggunakan pembayaran elektronik dan berikan garansi untuk setiap pembelian. Selain dari bulan 5,8 dan bulan 11 perusahaan dapat gunakan untuk membangun branding awarness.
+
+# Mari berkenalan :heavy_check_mark:
+[![Avenger](https://github.com/mhdalfarisy/CRUD-Program-Stock-Barang-Gudang/blob/main/image/Linkedin.jpg)](https://www.linkedin.com/in/m-alfarisy97/)
+
+
+# Portofolio Coding :heavy_check_mark:
+[![Github](https://github.com/mhdalfarisy/CRUD-Program-Stock-Barang-Gudang/blob/main/image/github-logo-tile.png)](https://github.com/mhdalfarisy)
+
+
+# Portofolio Visualisasi :heavy_check_mark:
+[![Dashboard Portofolio Tableu](https://github.com/mhdalfarisy/Capstone-Project-Modul-1---Program-Stock-Barang-Gudang-/blob/main/image/Tableau-Server-1.jpg)](https://public.tableau.com/app/profile/muhammad.al.farisy6147)
