@@ -111,18 +111,12 @@
 
 **✨ Other Data Visualization Report** <br>
 <br>
-<code><a href="https://public.tableau.com/app/profile/muhammad.al.farisy6147" target="_blank"><img height="50" src="https://github.com/mhdalfarisy/mhdalfarisy/blob/main/tol_devices_optimized.png"></a></code>
+<code><a href="https://public.tableau.com/app/profile/muhammad.al.farisy6147" target="_blank"><img height="300" src="https://github.com/mhdalfarisy/mhdalfarisy/blob/main/tol_devices_optimized.png"></a></code>
 <br>
 
 ---
 
 
-<td align="center" width="30%">
-<span><b><center>Machine Learning Employee Attrition</center></b></span> 
-<code><a href="https://public.tableau.com/app/profile/muhammad.al.farisy6147/viz/ProjectHumanResourceAttritionAnalysisDashboard/Dashboard1?publish=yes" target="_blank">
-<img height=200px src="https://github.com/mhdalfarisy/Employee-Analysis-Attrition-Report/blob/main/Aset/0x0.jpg"> 
-</td>
-</tr>
 
 **💬 Ask me about anything, I'll be happy to help!** <br>
 **💬 My inbox is always open, Contact me**
