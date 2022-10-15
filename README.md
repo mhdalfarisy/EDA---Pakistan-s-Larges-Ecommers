@@ -106,9 +106,16 @@
 
 **✨ Visualization Data Pakistan Large E-Commers** <br>
 <br>
-<code><a href="https://public.tableau.com/app/profile/muhammad.al.farisy6147" target="_blank"><img height="500" src="https://github.com/mhdalfarisy/EDA---Pakistan-s-Larges-Ecommers/blob/main/Images/Dashboard%201%20(1).png"></a></code>
+<code><a href="https://public.tableau.com/app/profile/muhammad.al.farisy6147/viz/ProjectE-CommersPakistanDashboard/Dashboard1" target="_blank"><img height="500" src="https://github.com/mhdalfarisy/EDA---Pakistan-s-Larges-Ecommers/blob/main/Images/Dashboard%201%20(1).png"></a></code>
+<br>
+
+**✨ Other Data Visualization Report** <br>
 <br>
 <code><a href="https://public.tableau.com/app/profile/muhammad.al.farisy6147" target="_blank"><img height="50" src="https://cdn.worldvectorlogo.com/logos/tableau-logo.svg"></a></code>
+<br>
+
+---
+
 
 
 **💬 Ask me about anything, I'll be happy to help!** <br>
