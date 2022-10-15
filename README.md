@@ -107,7 +107,7 @@
 4. `Discount_Amount_Category :` Untuk pemberian diskon kepada konsumen, perusahaan dapat memberikan diskon sebesar besar nya namun pada tanggal tertentu saja yang berkaitan dengan hari besar di pakistan dan dikson dapat diberikan berkisaran diatas 50% atau setengah harga dari total pembelian.
 5. `Month :` Awal tahun yaitu bulan 5, pertengahan tahun bulan 8 dan akhir tahun bulan 11 dapat perusahaan jadikan sebagai target promo besar besaran selama 1 bulan penuh, berikan promo besar pada bulan itu terhadap produk-produk yang memiliki transaksi paling banyak terjual, berikan diskon tambahan jika pembayaran menggunakan pembayaran elektronik dan berikan garansi untuk setiap pembelian. Selain dari bulan 5,8 dan bulan 11 perusahaan dapat gunakan untuk membangun branding awarness.
 
-### **Visualization Data Employee Analysis Attrition Report**
+### **Visualization Data Pakistan Large E-Commers**
 <br>
 <code><a href="https://public.tableau.com/app/profile/muhammad.al.farisy6147/viz/ProjectE-CommersPakistanDashboard/Dashboard1" target="_blank"><img height="500" src="https://github.com/mhdalfarisy/EDA---Pakistan-s-Larges-Ecommers/blob/main/Images/Dashboard%201%20(1).png"></a></code>
 <br>
