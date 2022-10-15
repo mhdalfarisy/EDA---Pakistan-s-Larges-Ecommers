@@ -9,7 +9,7 @@
 - [Data Analyst](#data-analyst)
   - [Kesimpulan Exploratory Data Analyst](#kesimpulan-exploratory-data-analyst)
   - [Saran Exploratory Data Analyst](#saran-exploratory-data-analyst)
-- [Visualization Data Employee Analysis Attrition Report](#visualization-data-employee-analysis-attrition-report)
+- [Visualization Data Pakistan Large E-Commers](#visualization-data-pakistan-large-e-Commers)
 - [Others Data Visualization Report](#others-data-visualization-report)
   
 
