@@ -111,7 +111,7 @@
 
 **✨ Other Data Visualization Report** <br>
 <br>
-<code><a href="https://public.tableau.com/app/profile/muhammad.al.farisy6147" target="_blank"><img height="50" src="https://cdn.worldvectorlogo.com/logos/tableau-logo.svg"></a></code>
+<code><a href="https://public.tableau.com/app/profile/muhammad.al.farisy6147" target="_blank"><img height="50" src="https://github.com/mhdalfarisy/mhdalfarisy/blob/main/tol_devices_optimized.png"></a></code>
 <br>
 
 ---
