@@ -8,7 +8,10 @@
 - [Definisi Kolom](#definisi-kolom)
 - [Data Analyst](#data-analyst)
   - [Kesimpulan Exploratory Data Analyst](#kesimpulan-exploratory-data-analyst)
-  -[Saran Exploratory Data Analyst](#saran-exploratory-data-analyst)
+  - [Saran Exploratory Data Analyst](#saran-exploratory-data-analyst)
+- [Visualization Data Employee Analysis Attrition Report](#visualization-data-employee-analysis-attrition-report)
+- [Others Data Visualization Report](#others-data-visualization-report)
+  
 
 ### **Problem Statement**
   - Transaksi penjualan Perusahaan E-Commers Pakistan setiap tahunnya mengalami penurunan, hal ini dikarenakan angka pembatalan yang dilakukan konsumen setiap tahunnya terus meningkat. Tahun 2016 pembatalan penjualan terjadi sebanyak 41%, pada tahun 2017 mengalami peningkatan 45% dan pada tahun 2018 mengalami peningkatan menjadi 48% pembatalan penjualan. Jika hal ini dibiarkan, maka Perusahaan E-Commers Pakistan akan mengalami penurunan penjualan yang semakin tinggi dan akan kehilangan konsumen. 
@@ -104,12 +107,12 @@
 4. `Discount_Amount_Category :` Untuk pemberian diskon kepada konsumen, perusahaan dapat memberikan diskon sebesar besar nya namun pada tanggal tertentu saja yang berkaitan dengan hari besar di pakistan dan dikson dapat diberikan berkisaran diatas 50% atau setengah harga dari total pembelian.
 5. `Month :` Awal tahun yaitu bulan 5, pertengahan tahun bulan 8 dan akhir tahun bulan 11 dapat perusahaan jadikan sebagai target promo besar besaran selama 1 bulan penuh, berikan promo besar pada bulan itu terhadap produk-produk yang memiliki transaksi paling banyak terjual, berikan diskon tambahan jika pembayaran menggunakan pembayaran elektronik dan berikan garansi untuk setiap pembelian. Selain dari bulan 5,8 dan bulan 11 perusahaan dapat gunakan untuk membangun branding awarness.
 
-**✨ Visualization Data Pakistan Large E-Commers** <br>
+### **Visualization Data Employee Analysis Attrition Report**
 <br>
 <code><a href="https://public.tableau.com/app/profile/muhammad.al.farisy6147/viz/ProjectE-CommersPakistanDashboard/Dashboard1" target="_blank"><img height="500" src="https://github.com/mhdalfarisy/EDA---Pakistan-s-Larges-Ecommers/blob/main/Images/Dashboard%201%20(1).png"></a></code>
 <br>
 
-**✨ Other Data Visualization Report** <br>
+### **Others Data Visualization Report**
 <br>
 <code><a href="https://public.tableau.com/app/profile/muhammad.al.farisy6147" target="_blank"><img height="300" src="https://github.com/mhdalfarisy/mhdalfarisy/blob/main/tol_devices_optimized.png"></a></code>
 <br>
