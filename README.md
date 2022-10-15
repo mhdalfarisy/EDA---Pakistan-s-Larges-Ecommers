@@ -2,6 +2,14 @@
 
 ![a1](https://github.com/mhdalfarisy/EDA---Pakistan-s-Larges-Ecommers/blob/main/Images/62253a402fccf.jpg)
 
+- [Problem Statement](#problem-statement)
+- [Objectives](#objectives)
+- [Analytical Approach](#analytical-approach)
+- [Definisi Kolom](#definisi-kolom)
+- [Data Analyst](#data-analyst)
+  - [Kesimpulan Exploratory Data Analyst](#kesimpulan-exploratory-data-analyst)
+  -[Saran Exploratory Data Analyst](#saran-exploratory-data-analyst)
+
 ### **Problem Statement**
   - Transaksi penjualan Perusahaan E-Commers Pakistan setiap tahunnya mengalami penurunan, hal ini dikarenakan angka pembatalan yang dilakukan konsumen setiap tahunnya terus meningkat. Tahun 2016 pembatalan penjualan terjadi sebanyak 41%, pada tahun 2017 mengalami peningkatan 45% dan pada tahun 2018 mengalami peningkatan menjadi 48% pembatalan penjualan. Jika hal ini dibiarkan, maka Perusahaan E-Commers Pakistan akan mengalami penurunan penjualan yang semakin tinggi dan akan kehilangan konsumen. 
 
@@ -71,6 +79,8 @@
 3. `Payment_Method_Category :` Cara yang paling banyak digunakan konsumen di pakistan adalah `COD, Debit Card dan Credit Card` namun pembatalan paling banyak ada pada cara pembayaran `Credit Card & Debit Card` sedangkan pembatalan refund paling banyak dengan cara pembayaran `COD`.
 4. `Discount_Amount_Category :` Transaksi yang tidak mendapatkan diskon paling banyak pembatalan sekitar 27% dan transaksi yang mendapatkan diskon terjadi pembatalan karena diskon yang diberikan kurang dari 1000 Rupee.
 5. `Month :` Bulan yang paling banyak transaksi berhasil ada pada akhir tahun bulan 11, pertengahan tahun bulan 8 dan awal tahun bulan 5 dengan.
+
+# **Data Analyst**
 
 ## **Saran Exploratory Data Analyst**
 1. `Status :` 
