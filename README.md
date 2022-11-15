@@ -9,7 +9,6 @@
 - [Data Analyst](#data-analyst)
   - [Kesimpulan Exploratory Data Analyst](#kesimpulan-exploratory-data-analyst)
   - [Saran Exploratory Data Analyst](#saran-exploratory-data-analyst)
-- [Others Data Visualization Report](#others-data-visualization-report)
 - [Others Project](#others-project)
   
 
@@ -121,8 +120,19 @@
 
 <br>
 
-# **OTHERS PROJECT**
+**My Project :** [Data Analyst](#data-analyst) | [Machine Learning](#machine-learning) | [Data Visualization](#data-visualization)
 
+**Tech stacks currently using** <br>
+
+<code><a href="https://code.visualstudio.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></a></code>
+<code><a href="https://jupyter.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></a></code>
+<code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
+<code><a href="https://www.mysql.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></a></code>
+<code><a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank"><img height="50" src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server-1.svg"></a></code>
+<code><a href="https://www.postgresql.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></a></code>
+<code><a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg"></a></code>
+<code><a href="https://public.tableau.com/app/profile/muhammad.al.farisy6147" target="_blank"><img height="30" src="https://cdn.worldvectorlogo.com/logos/tableau-logo.svg"></a></code>
+<br>
 <br>
 <table>
 <tbody>
@@ -188,17 +198,24 @@
  <tr>  
   
 <!-- <tr> -->
-<td align="center" width="50%">
+<td align="center" width="30%">
 <span><b><left>Segmentation Customer Mall</center></b></span> 
 <code><a href="https://github.com/mhdalfarisy/Segmentation-Customer-Mall" target="_blank">
 <img height=250px src="https://github.com/mhdalfarisy/Segmentation-Customer-Mall/blob/main/2.-Customer-Segmentation.jpg"> 
 </td>
  
 <!-- <tr> -->
-<td align="center" width="50%">
+<td align="center" width="30%">
 <span><b><left>Segmentation Customer Supermarket</center></b></span>
 <code><a href="https://github.com/mhdalfarisy/Customer-Supermarket" target="_blank">
 <img height=250px src="https://github.com/mhdalfarisy/mhdalfarisy/blob/main/istockphoto-1254636143-612x612.jpg"> 
+</td> 
+
+<!-- <tr> -->
+<td align="center" width="30%">
+<span><b><left>Segmentation German Credit Risk</center></b></span>
+<code><a href="https://github.com/mhdalfarisy/German-Credit-Risk" target="_blank">
+<img height=250px src="https://media.istockphoto.com/vectors/banking-credit-card-vector-id1353716726?b=1&k=20&m=1353716726&s=612x612&w=0&h=qkwNRlcHCDUxeSgVYau8FczoM6x0sl693nvjAAcRmio="> 
 </td> 
  
 </tbody>
