@@ -111,11 +111,6 @@
 <code><a href="https://public.tableau.com/app/profile/muhammad.al.farisy6147/viz/ProjectE-CommersPakistanDashboard/Dashboard1" target="_blank"><img height="500" src="https://github.com/mhdalfarisy/EDA---Pakistan-s-Larges-Ecommers/blob/main/Images/Dashboard%201%20(1).png"></a></code>
 <br>
 
-### **Others Data Visualization Report**
-<br>
-<code><a href="https://public.tableau.com/app/profile/muhammad.al.farisy6147" target="_blank"><img height="300" src="https://github.com/mhdalfarisy/mhdalfarisy/blob/main/tol_devices_optimized.png"></a></code>
-<br>
-
 ---
 
 <br>
